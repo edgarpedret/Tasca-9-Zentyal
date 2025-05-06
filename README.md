@@ -3,7 +3,9 @@
 Activitat 1: 
 Elimina als dos esciptoris la tercera interficie de xarxa anomenada IAB-2SMXA-6 i canvia-la per  IAB-2SMXB-6.
 
+![image](https://github.com/user-attachments/assets/5b310381-bdf4-4861-a9ff-43ad7032f672)
 
+![image](https://github.com/user-attachments/assets/1fd6dacf-ed8c-4091-8bbe-7f499601f64a)
 
 Activitat 2:
 Configura les IPs de la següent manera:
